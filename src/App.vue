@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <p>heima</p>
     <router-view />
   </div>
 </template>
